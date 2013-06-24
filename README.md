@@ -1,4 +1,4 @@
-SVD-Decomposition-Python-LENA
+SVD-MatrixDecomposition-Python-LENA
 =============================
 
 A simple example of using Numpy, SVD, and LENA to compress an image.
